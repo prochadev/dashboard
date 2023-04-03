@@ -1,0 +1,42 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Fortnite",
+      "category": "Battle Royale",
+      "release": "2017"
+    },
+    {
+      "id": 2,
+      "name": "CS:GO",
+      "category": "FPS",
+      "release": "2012"
+    },
+    {
+      "id": 3,
+      "name": "FIFA 23",
+      "category": "Football Simulation",
+      "release": "2022"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Gabriel Fonseca",
+      "email": "gfonseca@empresa.com",
+      "address": "Salvador, BRA"
+    },
+    {
+      "id": 2,
+      "name": "Erik Sorga",
+      "email": "eriksorga@ettevote.com",
+      "address": "Tallinn, EST"
+    },
+    {
+      "id": 3,
+      "name": "Min-ji Lee",
+      "email": "leeminji@hoesa.com",
+      "address": "Seoul, KOR"
+    }
+  ]
+}
